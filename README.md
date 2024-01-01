@@ -14,11 +14,11 @@ I combine three technologies to provide a powerful solution when working with la
 
 ELK enables defenders to detect attacks and conduct threat hunting.
 
-I searched up online for free SIEMs that I could use in my own home network and it led to me wanting to learn more about ELK. I didn't need several servers or to spend large sums of money. I discovered the opportunity to get into the driver's seat and experiment with ELK by using the Elastic Cloud 14-day trial. The trial didn't require a credit card to get started; I only needed my email and a password.
+I searched up online for free SIEMs that I could use in my own home network and it led to me wanting to learn more about ELK. I didn't need several servers like most orgnizations use or to spend large sums of money. I discovered the opportunity to get into the driver's seat and experiment with ELK by using the Elastic Cloud 14-day trial. The trial didn't require a credit card to get started; I only needed my email and a password.
 
 **1. Set up an account.**
 
-[Start your free Elastic Cloud Trial](https://cloud.elastic.co/registration?settings=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZW5ndGgiOjE1MCwic2l6ZSI6NDA5NiwiZGVmYXVsdF9zaXplIjoxMDI0fQ.dS6xqdrcNBVkANlcS19AnsZmHVSqoPROLHprdeN-Qbc&source=education "https://cloud.elastic.co/registration?settings=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZW5ndGgiOjE1MCwic2l6ZSI6NDA5NiwiZGVmYXVsdF9zaXplIjoxMDI0fQ.dS6xqdrcNBVkANlcS19AnsZmHVSqoPROLHprdeN-Qbc&source=education")
+[Free Elastic Cloud Trial Link](https://cloud.elastic.co/registration?settings=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZW5ndGgiOjE1MCwic2l6ZSI6NDA5NiwiZGVmYXVsdF9zaXplIjoxMDI0fQ.dS6xqdrcNBVkANlcS19AnsZmHVSqoPROLHprdeN-Qbc&source=education "https://cloud.elastic.co/registration?settings=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsZW5ndGgiOjE1MCwic2l6ZSI6NDA5NiwiZGVmYXVsdF9zaXplIjoxMDI0fQ.dS6xqdrcNBVkANlcS19AnsZmHVSqoPROLHprdeN-Qbc&source=education")
 
 
 I used this link to get to the trial sign up page.
