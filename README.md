@@ -248,6 +248,8 @@ In my first documented project ever, I feel that I learned alot of valuable info
 * Extend monitoring to multiple laptop devices within the home network.
 * Monitor a diverse range of logs, including system logs, network logs, and application logs.
 
+One of the most valuable aspects was the ability to set up alerting based on predefined rules. I configured alerts to notify me of any suspicious activities, such as multiple failed login attempts or unusual network behavior. This proactive approach allowed me to promptly address potential security threats within my home network. I configured alerts to notify me of any suspicious activities, such as multiple failed login attempts or unusual network behavior. This proactive approach allowed me to promptly address potential security threats within my home network
+
 After feeling a little accomplished with this project, I will use ELK as my primary SIEM, and probably try to find SIEMs that are notoriously used in the field, such as Splunk or QRadar to get a better understanding of SIEMs in general. I know that some SIEMs work differently than others and it only drives my hunger to test them in my home lab environment. To finally conclude this, this ELK SIEM and Sysmon implementation offers valuable insights into logging practices and their applications in the daily routines of SOC analysts and cybersecurity professionals. By monitoring the logs of multiple laptop devices in a home network, I was able to gain a holistic view of the security posture and potential threats. This documentation serves as a reference for maintaining a robust logging infrastructure and leveraging the power of ELK SIEM and Sysmon in enhancing cybersecurity measures.
 
 
